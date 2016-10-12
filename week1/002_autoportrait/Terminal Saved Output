@@ -1,0 +1,50 @@
+Last login: Wed Oct  5 11:48:02 on ttys001
+Julia-Racskos-MacBook-Pro-3:~ Julia$ git init
+Initialized empty Git repository in /Users/Julia/.git/
+Julia-Racskos-MacBook-Pro-3:~ Julia$ ls
+Applications		Dropbox			Music
+Calibre Library		Google Drive		Pictures
+Creative Cloud Files	InVision		Public
+Desktop			Library			Samsung
+Documents		Mail			Sites
+Downloads		Movies			Stickies
+Julia-Racskos-MacBook-Pro-3:~ Julia$ cd Documents
+Julia-Racskos-MacBook-Pro-3:Documents Julia$ cd attuale
+Julia-Racskos-MacBook-Pro-3:attuale Julia$ cd HEAD
+Julia-Racskos-MacBook-Pro-3:HEAD Julia$ cd code
+-bash: cd: code: No such file or directory
+Julia-Racskos-MacBook-Pro-3:HEAD Julia$ ls
+Bootcamp		HEAD—dokumentumok	Théorie et pratique 1
+CreativeCoding		Labo 3D PR
+Julia-Racskos-MacBook-Pro-3:HEAD Julia$ cd CreativeCoding
+Julia-Racskos-MacBook-Pro-3:CreativeCoding Julia$ ls
+code
+Julia-Racskos-MacBook-Pro-3:CreativeCoding Julia$ cd code
+Julia-Racskos-MacBook-Pro-3:code Julia$ ls
+001_helloworld		002_autoportrait	README.md
+Julia-Racskos-MacBook-Pro-3:code Julia$ cd 002_autoportrait
+Julia-Racskos-MacBook-Pro-3:002_autoportrait Julia$ git init
+Initialized empty Git repository in /Users/Julia/Documents/attuale/HEAD/CreativeCoding/code/002_autoportrait/.git/
+Julia-Racskos-MacBook-Pro-3:002_autoportrait Julia$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	sketch.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+Julia-Racskos-MacBook-Pro-3:002_autoportrait Julia$ git add *
+Julia-Racskos-MacBook-Pro-3:002_autoportrait Julia$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   sketch.js
+
+Julia-Racskos-MacBook-Pro-3:002_autoportrait Julia$ 
