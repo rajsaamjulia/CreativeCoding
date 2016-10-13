@@ -2,14 +2,13 @@ var width, height;
 
 var xPos, yPos;
 
-var counter = 0;
-var d;
 
 function setup() {
-  width = 1000;
-  height = 800;
+  width = 600;
+  height = 600;
   createCanvas (width,height);
   background(211, 211, 211);
+  frameRate(1);
 
 }
 
@@ -19,20 +18,18 @@ function draw () {
   noStroke ();
   //ellipse(100,100, 100, 100);
 
-  xPos = width*0.06;
-  yPos = height*0.07;
-  y = 60;
+  var xPos = width*0.12;
+  var yPos = height*0.12;
   d = 30;
 
   for (var i = 0; i < 7; i++) {
     ellipse(xPos + i*xPos, yPos, d, d);
+    //var randomEllipse = ellipse[]
 
-    for (var j = 0; j<5; j++) {
+    for (var j = 0; j<6; j++) {
       ellipse (xPos + i*xPos, yPos + j*yPos, d, d);
     }
-
-    yPos=height*0.07;
-    xPos+=width*0.06 + width*0.01;
   }
+//found: var randomItem = items[Math.floor(Math.random()*items.length)]
 
 }
