@@ -11,16 +11,6 @@ Possible changes: adding effects, objects or information not visible on the imag
 
 The user can drag and drop their own image on the canvas, and then add the changes (or the changes happen).
 
-***
-
-OPEN QUESTIONS
-
-How much control does the user have? How many options? Examples: sad filter. Or is every change set (random filter, etc)?
-Noise options: add glitch, dots, lose some colours, etc.
-Should it include text at all? Can the user enter just date/time, or free text to add (e.g. piece of conversation at the same time)?
-Can it sometimes destroy the image (forget), cancel parts?
-Should the change just happen instantly or gradually get stronger?
-
 
  FIRST STEPS
 
@@ -37,3 +27,13 @@ Nutshell https://itunes.apple.com/us/app/nutshell-camera-instant-mini/id95343515
 https://snorpey.github.io/jpg-glitch/ - an online image editor that glitches JPG-s
 http://getnarrative.com/ , GoPro - captures more objectively than the brain
 https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union - this is the inverse, by modifying the image they are changing the memory of the audience.
+
+***
+
+OPEN QUESTIONS
+
+How much control does the user have? How many options? Examples: sad filter. Or is every change set (random filter, etc)?
+Noise options: add glitch, dots, lose some colours, etc.
+Should it include text at all? Can the user enter just date/time, or free text to add (e.g. piece of conversation at the same time)?
+Can it sometimes destroy the image (forget), cancel parts?
+Should the change just happen instantly or gradually get stronger?
