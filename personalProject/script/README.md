@@ -1,6 +1,7 @@
 # Memory filter
 
 
+
 ## Description
 
 Humans are emotional and subjective creatures, so what we have seen somewhere and what we remember later is not the same. In this project I want to make the difference visible and comparable by modifying an image, which is a more objective record than the one in our brain.
