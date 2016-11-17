@@ -30,7 +30,11 @@ Conceptually though I am not yet convinced of the slider’s necessity, or if it
 ## Open questions
 
 How much control does the user have? How many options? Examples: sad filter. Or is every change set (random filter, etc)?
+
 Noise options: add glitch, dots, lose some colours, etc.
+
 Should it include text at all? Can the user enter just date/time, or free text to add (e.g. piece of conversation at the same time)?
+
 Can it sometimes destroy the image (forget), cancel parts?
+
 Should the change just happen instantly or gradually get stronger?
