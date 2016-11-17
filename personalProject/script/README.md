@@ -24,7 +24,7 @@ Conceptually though I am not yet convinced of the slider’s necessity, or if it
 * [Narrative Clip](http://getnarrative.com/), GoPro - captures more objectively than the brain
 * [Soviet progressive image censoring](https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union) - this is the inverse, by modifying the image they are changing the memory of the audience.
 
-***
+
 
 ## Open questions
 
