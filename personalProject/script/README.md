@@ -9,9 +9,8 @@ Possible changes: adding effects, objects or information not visible on the imag
 The user can drag and drop their own image on the canvas, and then add the changes (or the changes happen).
 
 
- FIRST STEPS
+## First steps
 
-(Documentation, Image, Croquis, Code, etc..)
 First I imagined a timeline slider where the user can see how does the image look as time passes (1 day, 1 month, etc). In the first sketch I aimed to connect the value of the slider to some visual effect, which is now the alpha value of the dots that appear. It feels like raining.
 Conceptually though I am not yet convinced of the slider’s necessity, or if it should be used this way.
 
@@ -20,14 +19,14 @@ Conceptually though I am not yet convinced of the slider’s necessity, or if it
 
 * Instagram
 * Snapchat
-* [Nutshell] (https://itunes.apple.com/us/app/nutshell-camera-instant-mini/id953435157?mt=8)
-* [https://snorpey.github.io/jpg-glitch/ - an online image editor that glitches JPG-s]
+* [Nutshell](https://itunes.apple.com/us/app/nutshell-camera-instant-mini/id953435157?mt=8)
+* [Image Glitch Tool](https://snorpey.github.io/jpg-glitch/) - an online image editor that glitches JPG-s
 * [Narrative Clip](http://getnarrative.com/), GoPro - captures more objectively than the brain
-* https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union - this is the inverse, by modifying the image they are changing the memory of the audience.
+* [Soviet progressive image censoring](https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union) - this is the inverse, by modifying the image they are changing the memory of the audience.
 
 ***
 
-OPEN QUESTIONS
+## Open questions
 
 How much control does the user have? How many options? Examples: sad filter. Or is every change set (random filter, etc)?
 Noise options: add glitch, dots, lose some colours, etc.
