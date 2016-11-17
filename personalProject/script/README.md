@@ -1,10 +1,7 @@
-
-TITRE
-
-Memory filter
+# Memory filter
 
 
-DESCRIPTION
+## Description
 
 Humans are emotional and subjective creatures, so what we have seen somewhere and what we remember later is not the same. In this project I want to make the difference visible and comparable by modifying an image, which is a more objective record than the one in our brain.
 Possible changes: adding effects, objects or information not visible on the image, possibly some noise.
@@ -19,14 +16,14 @@ First I imagined a timeline slider where the user can see how does the image loo
 Conceptually though I am not yet convinced of the slider’s necessity, or if it should be used this way.
 
 
-LINKS, INSPIRATION
+## Links, inspiration
 
-Instagram
-Snapchat
-Nutshell https://itunes.apple.com/us/app/nutshell-camera-instant-mini/id953435157?mt=8
-https://snorpey.github.io/jpg-glitch/ - an online image editor that glitches JPG-s
-http://getnarrative.com/ , GoPro - captures more objectively than the brain
-https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union - this is the inverse, by modifying the image they are changing the memory of the audience.
+* Instagram
+* Snapchat
+* [Nutshell] (https://itunes.apple.com/us/app/nutshell-camera-instant-mini/id953435157?mt=8)
+* [https://snorpey.github.io/jpg-glitch/ - an online image editor that glitches JPG-s]
+* [Narrative Clip](http://getnarrative.com/), GoPro - captures more objectively than the brain
+* https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union - this is the inverse, by modifying the image they are changing the memory of the audience.
 
 ***
 
