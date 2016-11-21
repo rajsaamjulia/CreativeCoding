@@ -23,6 +23,7 @@ Conceptually though I am not yet convinced of the slider’s necessity, or if it
 * [Nutshell](https://itunes.apple.com/us/app/nutshell-camera-instant-mini/id953435157?mt=8)
 * [Image Glitch Tool](https://snorpey.github.io/jpg-glitch/) - an online image editor that glitches JPG-s
 * [Narrative Clip](http://getnarrative.com/), GoPro - captures more objectively than the brain
+* [1 Second Every Day](http://1se.co/)
 * [Soviet progressive image censoring](https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union) - this is the inverse, by modifying the image they are changing the memory of the audience.
 
 
