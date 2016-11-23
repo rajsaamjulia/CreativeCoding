@@ -30,6 +30,10 @@ Conceptually though I am not yet convinced of the slider’s necessity, or if it
 
 ## Open questions
 
+End goal: diary or demonstration?
+
+Mobile or desktop?
+
 How much control does the user have? How many options? Examples: sad filter. Or is every change set (random filter, etc)?
 
 Noise options: add glitch, dots, lose some colours, etc.
